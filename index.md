@@ -18,7 +18,9 @@ With the following adjustments
 - Algebra I
 
 **Nick**
+
 Do AP work on [AP classroom](https://myap.collegeboard.org/login) first
+
 - AP English Literature and Composition
 - AP 2-D Art and Design (email Ms. Stevens to see if there's anything you can do self-guided)
 - AP Human Geography
