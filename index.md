@@ -27,6 +27,7 @@ Do AP work on [AP classroom](https://myap.collegeboard.org/login) first
 - AP Physics 1
 - AP Statistics
 
-Once done with what's available on AP classroom
+Once done with what's available on AP classroom (some other resources)
 - [AP CS principles](https://www.khanacademy.org/computing/ap-computer-science-principles)
 - Teach yourself animation - using Adobe product suite
+- [online ivy league courses](https://www.freecodecamp.org/news/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c/)
