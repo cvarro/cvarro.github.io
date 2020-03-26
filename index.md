@@ -2,7 +2,7 @@
 
 ## Weekday Resources
 
-### Week of March 16, 2020
+### Week of March 23, 2020
 
 Follow the Khan Academy Schedule:
 
@@ -18,6 +18,10 @@ With the following adjustments
 - Algebra I
 
 **Nick**
+
+NEW - Here are the AP Classes and review online:
+[AP classes and review](https://www.youtube.com/user/advancedplacement)
+
 
 Do AP work on [AP classroom](https://myap.collegeboard.org/login) first
 
