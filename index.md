@@ -17,7 +17,7 @@
 - 
 
 
-**GENERAL REFERENCES***
+**General References for Everyone**
 
 The Khan Academy Schedule:
 
