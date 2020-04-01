@@ -16,8 +16,7 @@
 **Nick**
 - 
 
-
-**General References for Everyone**
+## General References for Everyone
 
 The Khan Academy Schedule:
 
